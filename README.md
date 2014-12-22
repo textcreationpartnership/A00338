@@ -36,11 +36,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A very pleasaunt [and] fruitful diologe called the Epicure, made by that famous clerke Erasmus of Ro
+
+1. S. Paule to the Epheſians.
+
+1. THE HABOVNdaunt mercie and grace of our heauenly father Ieſu Chriſt, maye alwaies ſtrengthen and defende oute noble & vertuous Prynce Edward too the maintenaunce of the liuely woord of God.
+
 #####Body#####
-A very pleasaunt [and] fruitful diologe called the Epicure, made by that famous clerke Erasmus of Ro
+
+1. The Epicure
+
 #####Back#####
-A very pleasaunt [and] fruitful diologe called the Epicure, made by that famous clerke Erasmus of Ro
+Imprinted at London vvithir the precinct of the late diſſolued houſe of the gray Friers, by RichardeEICHDIEN. PSVSCIPITE INCITVM VERBVM•• IACO. I
 **Types of content**
 
   * There are 188 **drama** parts! This is **prose drama**.
